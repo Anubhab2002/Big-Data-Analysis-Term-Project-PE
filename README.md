@@ -24,6 +24,23 @@ Since the Embeddings take up lots of space, it was not possible to upload them t
 Data 1, 2, 3, 4 represent 4 different products from 4 different categories - Men's Wear, Perfumes, Electronic Accessories and Groceries.
 
 ### BERT Scores:
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/bert_scores.png)
+
+### Skip-Gram Word2Vec Scores:
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/glove_scores.png)
+
+### Glove Scores:
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/skipgram_scores.png)
+
+## VISUALISATION:
+
+### PCA
+
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/bda_pca.png)
+
+### t-SNE
+
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/t_sne_1_bda.png)
 
 ## TEAM MEMBERS:
 

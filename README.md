@@ -36,7 +36,7 @@ Data 1, 2, 3, 4 represent 4 different products from 4 different categories - Men
 
 ### PCA
 
-![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/bda_pca.png)
+![](https://github.com/Anubhab2002/Big-Data-Analysis-Term-Project-PE/blob/main/Pictures/pca_1_bda.png)
 
 ### t-SNE
 
